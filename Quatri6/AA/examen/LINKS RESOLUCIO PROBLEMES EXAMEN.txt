@@ -1,0 +1,44 @@
+*********************************************************************************************
+******************************** LINKS RESOLUCIO PROBLEMES EXAMEN ***************************
+*********************************************************************************************
+
+//////////////////////////////////////// Variants de 3SAT //////////////////////////////////
+p1 : 
+
+(i) Demostreu que 3SAT-Twice at most i és NP-complet
+file:///C:/Users/joanv/Documents/q6/aa/llibres/Dasgupta-Papadimitriou-Vazirani.pdf  --> pagina 250
+
+(ii) Demostreu que 3SAT-once at most∈ P
+
+//////////////////////////////////////// CONJUNT DOMINANT //////////////////////////////////
+p2 : 
+https://www.geeksforgeeks.org/proof-that-dominant-set-of-a-graph-is-np-complete/
+https://medusa.teodesian.net/docs/mathematics/Design%20and%20Analysis%20of%20Algorithms%20(Course%20Notes)%20-%20S.%20Khuller%20(1996)%20WW.pdf
+
+
+//////////////////////////////////////// Una pila de pedretes /////////////////////////////
+P3:
+https://acmfiles.s3.amazonaws.com/Temas/juegos.pdf
+
+
+/////////////////////////////////////////// RANDOM 3 SAT //////////////////////////////////
+p4: 
+https://cs.stackexchange.com/questions/80887/randomized-algorithm-for-3sat
+
+
+
+///////////////////////////////////// The Contraction Algorithm  //////////////////////////
+p5:
+https://www.geeksforgeeks.org/introduction-and-implementation-of-kargers-algorithm-for-minimum-cut/
+https://faculty.cc.gatech.edu/~vigoda/4540/Lectures/Kargers-MinCut.pdf
+
+
+
+///////////////////////////////////// El sistema criptogràfic RSA  ////////////////////////
+p6:
+
+///////////////////////////////////////////// Espiant RSA.  ///////////////////////////////
+p7:
+
+//////////////////////////////////////// No incentiu de canvi  ////////////////////////////
+p8:
